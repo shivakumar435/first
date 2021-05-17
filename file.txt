@@ -2,3 +2,5 @@ this is new text file
 tomoto
 cherry
 mango
+hey this is your friend added new code
+thank you
